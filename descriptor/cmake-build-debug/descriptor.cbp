@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="descriptor"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Mapping/Tools/grammar/descriptor/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Mapping/Tools/grammar/descriptor/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="descriptor">
+				<Option output="D:/Mapping/Tools/grammar/descriptor/Debug/descriptor.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Mapping/Tools/grammar/descriptor/Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/boost_gcc4.7/include/boost-1_64"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Library/Photogrammetry/include"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Library/Buildings/include"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Library/LaserScan/include"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Foreign/ANN/include/ANN"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Foreign/ANN/src"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../annotator"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include/c++"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include/c++/backward"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../include"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include-fixed"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 descriptor"/>
+					<CompileFile command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="descriptor/fast">
+				<Option output="D:/Mapping/Tools/grammar/descriptor/Debug/descriptor.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Mapping/Tools/grammar/descriptor/Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/boost_gcc4.7/include/boost-1_64"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Library/Photogrammetry/include"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Library/Buildings/include"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Library/LaserScan/include"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Foreign/ANN/include/ANN"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../../../Foreign/ANN/src"/>
+					<Add directory="D:/Mapping/Tools/grammar/descriptor/../annotator"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include/c++"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include/c++/backward"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../include"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/include-fixed"/>
+					<Add directory="d:\devcpp5.4.0_gcc4.7.1\dev-cpp\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 descriptor/fast"/>
+					<CompileFile command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Mapping/Tools/grammar/descriptor/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Mapping/Tools/grammar/annotator/Annotator.cpp">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/annotator/Annotator.h">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/Mls_Preparation.cpp">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/Mls_Preparation.h">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/boosttree.cpp">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/indoor_graph.cpp">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/indoor_graph.h">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/main.cpp">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/read_laserblocks.cpp">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/segment_refinement.cpp">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/selectpyramid.cpp">
+			<Option target="descriptor"/>
+		</Unit>
+		<Unit filename="D:/Mapping/Tools/grammar/descriptor/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

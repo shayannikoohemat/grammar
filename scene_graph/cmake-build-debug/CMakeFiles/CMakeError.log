@@ -1,0 +1,24 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe" "cmTC_70062/fast"
+C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_70062.dir\build.make CMakeFiles/cmTC_70062.dir/build
+mingw32-make.exe[1]: Entering directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target `x86)/JetBrains/CLion 2016.3.5/bin/cmake/share/cmake-3.6/Modules/CMakeCCompilerABI.c)', needed by `CMakeFiles/cmTC_70062.dir/CMakeCCompilerABI.c.obj'.  Stop.
+mingw32-make.exe: *** [cmTC_70062/fast] Error 2
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe" "cmTC_cd3ad/fast"
+C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_cd3ad.dir\build.make CMakeFiles/cmTC_cd3ad.dir/build
+mingw32-make.exe[1]: Entering directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target `x86)/JetBrains/CLion 2016.3.5/bin/cmake/share/cmake-3.6/Modules/CMakeCXXCompilerABI.cpp)', needed by `CMakeFiles/cmTC_cd3ad.dir/CMakeCXXCompilerABI.cpp.obj'.  Stop.
+mingw32-make.exe: *** [cmTC_cd3ad/fast] Error 2
+
+
+

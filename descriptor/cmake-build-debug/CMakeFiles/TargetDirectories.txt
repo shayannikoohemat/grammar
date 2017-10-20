@@ -1,0 +1,3 @@
+D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/CMakeFiles/descriptor.dir
+D:/Mapping/Tools/grammar/descriptor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

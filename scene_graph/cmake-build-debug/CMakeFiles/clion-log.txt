@@ -1,0 +1,18 @@
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Mapping\Tools\grammar\scene_graph
+-- The C compiler identification is GNU 4.7.1
+-- The CXX compiler identification is GNU 4.7.1
+-- Check for working C compiler: C:/Program Files/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/gcc.exe
+-- Check for working C compiler: C:/Program Files/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/Program Files/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/g++.exe
+-- Check for working CXX compiler: C:/Program Files/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug

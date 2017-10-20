@@ -1,0 +1,275 @@
+The system is: Windows - 6.1.7601 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files/DevCpp5.4.0_gcc4.7.1/Dev-Cpp/MinGW64/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe" "cmTC_5e312/fast"
+C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_5e312.dir\build.make CMakeFiles/cmTC_5e312.dir/build
+mingw32-make.exe[1]: Entering directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5e312.dir/testCCompiler.c.obj
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\gcc.exe     -o CMakeFiles\cmTC_5e312.dir\testCCompiler.c.obj   -c D:\Mapping\Tools\grammar\scene_graph\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_5e312.exe
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_5e312.dir\link.txt --verbose=1
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_5e312.dir/objects.a
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\cmTC_5e312.dir/objects.a @CMakeFiles\cmTC_5e312.dir\objects1.rsp
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_5e312.dir/objects.a -Wl,--no-whole-archive  -o cmTC_5e312.exe -Wl,--out-implib,libcmTC_5e312.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_5e312.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe" "cmTC_c2b21/fast"
+C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c2b21.dir\build.make CMakeFiles/cmTC_c2b21.dir/build
+mingw32-make.exe[1]: Entering directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c2b21.dir/feature_tests.c.obj
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\gcc.exe    -std=c11 -o CMakeFiles\cmTC_c2b21.dir\feature_tests.c.obj   -c D:\Mapping\Tools\grammar\scene_graph\cmake-build-debug\CMakeFiles\feature_tests.c
+Linking C executable cmTC_c2b21.exe
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c2b21.dir\link.txt --verbose=1
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c2b21.dir/objects.a
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\cmTC_c2b21.dir/objects.a @CMakeFiles\cmTC_c2b21.dir\objects1.rsp
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_c2b21.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c2b21.exe -Wl,--out-implib,libcmTC_c2b21.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c2b21.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe" "cmTC_1a230/fast"
+C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_1a230.dir\build.make CMakeFiles/cmTC_1a230.dir/build
+mingw32-make.exe[1]: Entering directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1a230.dir/feature_tests.c.obj
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\gcc.exe    -std=c99 -o CMakeFiles\cmTC_1a230.dir\feature_tests.c.obj   -c D:\Mapping\Tools\grammar\scene_graph\cmake-build-debug\CMakeFiles\feature_tests.c
+Linking C executable cmTC_1a230.exe
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_1a230.dir\link.txt --verbose=1
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_1a230.dir/objects.a
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\cmTC_1a230.dir/objects.a @CMakeFiles\cmTC_1a230.dir\objects1.rsp
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_1a230.dir/objects.a -Wl,--no-whole-archive  -o cmTC_1a230.exe -Wl,--out-implib,libcmTC_1a230.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_1a230.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe" "cmTC_3473d/fast"
+C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_3473d.dir\build.make CMakeFiles/cmTC_3473d.dir/build
+mingw32-make.exe[1]: Entering directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3473d.dir/feature_tests.c.obj
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\gcc.exe    -std=c90 -o CMakeFiles\cmTC_3473d.dir\feature_tests.c.obj   -c D:\Mapping\Tools\grammar\scene_graph\cmake-build-debug\CMakeFiles\feature_tests.c
+Linking C executable cmTC_3473d.exe
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_3473d.dir\link.txt --verbose=1
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_3473d.dir/objects.a
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\cmTC_3473d.dir/objects.a @CMakeFiles\cmTC_3473d.dir\objects1.rsp
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_3473d.dir/objects.a -Wl,--no-whole-archive  -o cmTC_3473d.exe -Wl,--out-implib,libcmTC_3473d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_3473d.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe" "cmTC_123ee/fast"
+C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_123ee.dir\build.make CMakeFiles/cmTC_123ee.dir/build
+mingw32-make.exe[1]: Entering directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_123ee.dir/testCXXCompiler.cxx.obj
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\G__~1.EXE      -o CMakeFiles\cmTC_123ee.dir\testCXXCompiler.cxx.obj -c D:\Mapping\Tools\grammar\scene_graph\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Linking CXX executable cmTC_123ee.exe
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_123ee.dir\link.txt --verbose=1
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_123ee.dir/objects.a
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\cmTC_123ee.dir/objects.a @CMakeFiles\cmTC_123ee.dir\objects1.rsp
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\G__~1.EXE       -Wl,--whole-archive CMakeFiles\cmTC_123ee.dir/objects.a -Wl,--no-whole-archive  -o cmTC_123ee.exe -Wl,--out-implib,libcmTC_123ee.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_123ee.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting CXX [-std=c++11] compiler features compiled with the following output:
+Change Dir: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe" "cmTC_22262/fast"
+C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_22262.dir\build.make CMakeFiles/cmTC_22262.dir/build
+mingw32-make.exe[1]: Entering directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_22262.dir/feature_tests.cxx.obj
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\G__~1.EXE     -std=c++11 -o CMakeFiles\cmTC_22262.dir\feature_tests.cxx.obj -c D:\Mapping\Tools\grammar\scene_graph\cmake-build-debug\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_22262.exe
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_22262.dir\link.txt --verbose=1
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_22262.dir/objects.a
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\cmTC_22262.dir/objects.a @CMakeFiles\cmTC_22262.dir\objects1.rsp
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\G__~1.EXE       -Wl,--whole-archive CMakeFiles\cmTC_22262.dir/objects.a -Wl,--no-whole-archive  -o cmTC_22262.exe -Wl,--out-implib,libcmTC_22262.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_22262.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [-std=c++98] compiler features compiled with the following output:
+Change Dir: D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe" "cmTC_47730/fast"
+C:/PROGRA~1/DEVCPP~1.1/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f CMakeFiles\cmTC_47730.dir\build.make CMakeFiles/cmTC_47730.dir/build
+mingw32-make.exe[1]: Entering directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_47730.dir/feature_tests.cxx.obj
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\G__~1.EXE     -std=c++98 -o CMakeFiles\cmTC_47730.dir\feature_tests.cxx.obj -c D:\Mapping\Tools\grammar\scene_graph\cmake-build-debug\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_47730.exe
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_47730.dir\link.txt --verbose=1
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_47730.dir/objects.a
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\cmTC_47730.dir/objects.a @CMakeFiles\cmTC_47730.dir\objects1.rsp
+C:\PROGRA~1\DEVCPP~1.1\Dev-Cpp\MinGW64\bin\G__~1.EXE       -Wl,--whole-archive CMakeFiles\cmTC_47730.dir/objects.a -Wl,--no-whole-archive  -o cmTC_47730.exe -Wl,--out-implib,libcmTC_47730.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_47730.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory `D:/Mapping/Tools/grammar/scene_graph/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:0cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:0cxx_extern_templates
+    Feature record: CXX_FEATURE:0cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:0cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_local_type_template_args
+    Feature record: CXX_FEATURE:0cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:0cxx_nullptr
+    Feature record: CXX_FEATURE:0cxx_override
+    Feature record: CXX_FEATURE:0cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:0cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:0cxx_static_assert
+    Feature record: CXX_FEATURE:0cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:0cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:0cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates

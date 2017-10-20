@@ -1,0 +1,11 @@
+D:/Mapping/Tools/grammar/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/annotator/CMakeFiles/annotator.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/annotator/CMakeFiles/edit_cache.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/annotator/CMakeFiles/rebuild_cache.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/descriptor/CMakeFiles/edit_cache.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/descriptor/CMakeFiles/descriptor.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/descriptor/CMakeFiles/rebuild_cache.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/scene_graph/CMakeFiles/edit_cache.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/scene_graph/CMakeFiles/scene_graph.dir
+D:/Mapping/Tools/grammar/cmake-build-debug/scene_graph/CMakeFiles/rebuild_cache.dir
